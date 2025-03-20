@@ -1,0 +1,22 @@
+<html>
+<head>
+    <title>Berita Viral Hari Ini</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+    <script>
+        setTimeout(function() {
+            window.location.href = "https://youtu.be/TGaWLLBTnvs?si=YDvgZqeNv_gPXyEg"; // Ganti dengan video jumpscare
+        }, 5000); // 5000ms = 5 detik sebelum jumpscare
+    </script>
+</head>
+<body>
+    <h1>🔥 Berita Viral Hari Ini! 🔥</h1>
+    <p>Seorang Youtuber menangkap sosok misterius dalam videonya! Klik di bawah untuk menonton.</p>
+</body>
+</html>
